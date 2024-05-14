@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PythonSettings type="OpenTap.Python.PythonSettings">
+  <PythonPath />
+  <PythonLibraryPath />
+  <SearchPathList>
+    <PluginSearchPath>
+      <SearchPath>C:\Users\sangilkim\Documents\keysight\py_opentap_project</SearchPath>
+      <Enabled>true</Enabled>
+    </PluginSearchPath>
+  </SearchPathList>
+  <Debug>false</Debug>
+  <DebugPort>5678</DebugPort>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.23.2+5a906a86" />
+  </Package.Dependencies>
+</PythonSettings>

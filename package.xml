@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package Name="py_opentap_pj" xmlns="http://keysight.com/Schemas/tap" Version="$(GitVersion)" OS="Windows,Linux,MacOS">
+    <Description>
+        py_opentap_pj
+        <Prerequisites> Python (>3.7) </Prerequisites>
+    </Description>
+    
+    <Files>
+        <File Path="py_opentap_pj/*.py" >
+            <ProjectFile/>
+        </File>
+                    
+        <File Path="py_opentap_pj/py_opentap_pj.Api.dll" SourcePath="bin/py_opentap_pj.Api.dll" >
+            <ProjectFile/>
+        </File>
+        <File Path="README.md" >
+            <ProjectFile/>
+        </File>
+    </Files>
+</Package>

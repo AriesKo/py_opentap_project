@@ -1,0 +1,11 @@
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\py_opentap_pj.Api.deps.json
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\py_opentap_pj.Api.dll
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\py_opentap_pj.Api.pdb
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.csproj.AssemblyReference.cache
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.AssemblyInfoInputs.cache
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.AssemblyInfo.cs
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.csproj.CoreCompileInputs.cache
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opent.566B09E2.Up2Date
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.dll
+C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.pdb

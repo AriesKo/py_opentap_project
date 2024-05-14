@@ -1,0 +1,91 @@
+﻿2024-05-14 14:26:43.362534 ; Session        ; Debug       ; Session log loaded as 'C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\SessionLogs\tap 2024-05-14 14-26-43.txt'. [5.80 ms]
+2024-05-14 14:26:43.390348 ; Session        ; Debug       ; Running '.\tap  python search-path --add .. ' in 'C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin'.
+2024-05-14 14:26:43.450497 ; AssemblyFinder ; Debug       ; Found 15/55 assembly files. [20.6 ms]
+2024-05-14 14:26:43.474577 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2024-05-14 14:26:43.513558 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2024-05-14 14:26:44.027456 ; Searcher       ; Debug       ; Ordered 15 assemblies according to references. [530 ms]
+2024-05-14 14:26:44.125681 ; PluginManager  ; Debug       ; Found 10 plugin assemblies containing 253 plugin types. [632 ms]
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.dll
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.Package.dll
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 0.0.0            of Keysight.OpenTap.Licensing.dll
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.Plugins.BasicSteps.dll
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 9.23.0+a3027bf1  of Keysight.OpenTap.Wpf.dll
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 9.23.0+a3027bf1  of PackageManager.exe
+2024-05-14 14:26:44.126688 ; PluginManager  ; Debug       ; Found version 9.23.0+a3027bf1  of Editor.exe
+2024-05-14 14:26:44.127683 ; PluginManager  ; Debug       ; Found version 1.0.0            of py_opentap_pj.Api.dll
+2024-05-14 14:26:44.127683 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2024-05-14 14:26:44.127683 ; PluginManager  ; Debug       ; Found version 3.1.0+73e66d85   of OpenTap.Python.dll
+2024-05-14 14:26:44.127871 ; PluginManager  ; Debug       ; Searched 15 Assemblies. [636 ms]
+2024-05-14 14:26:44.140667 ; AssemblyData   ; Debug       ; Loaded OpenTap. [916 us]
+2024-05-14 14:26:44.166495 ; AssemblyData   ; Debug       ; Loaded Keysight.OpenTap.Wpf. [9.77 ms]
+2024-05-14 14:26:44.177436 ; AssemblyData   ; Debug       ; Loaded OpenTap.Python. [7.54 ms]
+2024-05-14 14:26:44.436675 ; Resolver       ; Debug       ; Found match for Python.Runtime, Version=3.1.0.0, Culture=neutral, PublicKeyToken=5000fea6cba702dd in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\Python.Runtime.3.1.0.0\Python.Runtime.dll
+2024-05-14 14:26:44.479646 ; Settings       ; Debug       ; No settings file exists for PythonSettings. A new instance with default values has been created. [1.70 ms]
+2024-05-14 14:26:44.815654 ; Resolver       ; Debug       ; Found match for Keysight.Ccl.Wsl, Version=4.0.1.9, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\Keysight.Ccl.Wsl.4.0.1.9\Keysight.Ccl.Wsl.dll
+2024-05-14 14:26:44.855177 ; Resolver       ; Debug       ; Found match for System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\System.Windows.Interactivity.4.5.0.0\System.Windows.Interactivity.dll
+2024-05-14 14:26:45.102392 ; Python         ; Debug       ; Loaded Python Version 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] from 'C:\Users\sangilkim\AppData\Local\Programs\Python\Python312'.
+2024-05-14 14:26:45.326881 ; Python         ; Debug       ; Loading: PythonExamples.BasicDut
+2024-05-14 14:26:45.430119 ; AssemblyData   ; Debug       ; Loaded OpenTap.Package. [7.45 ms]
+2024-05-14 14:26:45.438238 ; AssemblyData   ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [16.0 ms]
+2024-05-14 14:26:45.455134 ; AssemblyData   ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [4.92 ms]
+2024-05-14 14:26:45.527335 ; AssemblyData   ; Debug       ; Loaded mscorlib. [1.30 us]
+2024-05-14 14:26:45.785171 ; AssemblyData   ; Debug       ; Loaded . [900 ns]
+2024-05-14 14:26:45.785171 ; AssemblyData   ; Debug       ; Loaded . [400 ns]
+2024-05-14 14:26:45.786181 ; AssemblyData   ; Debug       ; Loaded . [200 ns]
+2024-05-14 14:26:45.786181 ; AssemblyData   ; Debug       ; Loaded . [100 ns]
+2024-05-14 14:26:45.786181 ; AssemblyData   ; Debug       ; Loaded . [200 ns]
+2024-05-14 14:26:45.786181 ; AssemblyData   ; Debug       ; Loaded . [300 ns]
+2024-05-14 14:26:45.787178 ; Python         ; Debug       ; Loading: PythonExamples.BasicFunctionality
+2024-05-14 14:26:45.911465 ; AssemblyData   ; Debug       ; Loaded . [1.10 us]
+2024-05-14 14:26:45.911465 ; AssemblyData   ; Debug       ; Loaded . [100 ns]
+2024-05-14 14:26:45.912430 ; AssemblyData   ; Debug       ; Loaded . [200 ns]
+2024-05-14 14:26:45.912544 ; Python         ; Debug       ; Loading: PythonExamples.BasicInstrument
+2024-05-14 14:26:45.912544 ; Python         ; Debug       ; Loading: PythonExamples.BasicScpiInstrument
+2024-05-14 14:26:45.936735 ; AssemblyData   ; Debug       ; Loaded . [900 ns]
+2024-05-14 14:26:45.936735 ; Python         ; Debug       ; Loading: PythonExamples.BasicSettings
+2024-05-14 14:26:45.937726 ; Python         ; Debug       ; Loading: PythonExamples.ChargeStep
+2024-05-14 14:26:46.017871 ; AssemblyData   ; Debug       ; Loaded . [900 ns]
+2024-05-14 14:26:46.018845 ; AssemblyData   ; Debug       ; Loaded . [300 ns]
+2024-05-14 14:26:46.018845 ; Python         ; Debug       ; Loading: PythonExamples.CliAction
+2024-05-14 14:26:46.048933 ; AssemblyData   ; Debug       ; Loaded . [800 ns]
+2024-05-14 14:26:46.048933 ; Python         ; Debug       ; Loading: PythonExamples.CsvResultListener
+2024-05-14 14:26:46.067919 ; AssemblyData   ; Debug       ; Loaded . [1.00 us]
+2024-05-14 14:26:46.067919 ; Python         ; Debug       ; Loading: PythonExamples.DischargeStep
+2024-05-14 14:26:46.095190 ; AssemblyData   ; Debug       ; Loaded . [900 ns]
+2024-05-14 14:26:46.095190 ; Python         ; Debug       ; Loading: PythonExamples.EnumUsage
+2024-05-14 14:26:46.125147 ; AssemblyData   ; Debug       ; Loaded . [1.00 us]
+2024-05-14 14:26:46.125147 ; Python         ; Debug       ; Loading: PythonExamples.ErrorExample
+2024-05-14 14:26:46.135170 ; AssemblyData   ; Debug       ; Loaded . [900 ns]
+2024-05-14 14:26:46.135170 ; Python         ; Debug       ; Loading: PythonExamples.HiddenDut
+2024-05-14 14:26:46.156183 ; AssemblyData   ; Debug       ; Loaded . [900 ns]
+2024-05-14 14:26:46.156183 ; Python         ; Debug       ; Loading: PythonExamples.LockManager
+2024-05-14 14:26:46.162187 ; Python         ; Debug       ; Loading: PythonExamples.MenuItem
+2024-05-14 14:26:46.169200 ; Python         ; Debug       ; Loading: PythonExamples.NumpyStep
+2024-05-14 14:26:46.362389 ; AssemblyData   ; Debug       ; Loaded . [1.00 us]
+2024-05-14 14:26:46.363422 ; Python         ; Debug       ; Loading: PythonExamples.OutputInput
+2024-05-14 14:26:46.393174 ; AssemblyData   ; Debug       ; Loaded . [1.00 us]
+2024-05-14 14:26:46.393174 ; AssemblyData   ; Debug       ; Loaded . [100 ns]
+2024-05-14 14:26:46.393174 ; Python         ; Debug       ; Loading: PythonExamples.PowerAnalyzer
+2024-05-14 14:26:46.393174 ; AssemblyData   ; Debug       ; Loaded . [200 ns]
+2024-05-14 14:26:46.393174 ; Python         ; Debug       ; Loading: PythonExamples.SamplingStepBase
+2024-05-14 14:26:46.393174 ; Python         ; Debug       ; Loading: PythonExamples.UserInputExample
+2024-05-14 14:26:46.424185 ; AssemblyData   ; Debug       ; Loaded . [800 ns]
+2024-05-14 14:26:46.424185 ; AssemblyData   ; Debug       ; Loaded . [100 ns]
+2024-05-14 14:26:46.424185 ; Python         ; Debug       ; Loading: PythonExamples
+2024-05-14 14:26:46.472223 ; SystemInfo     ; Debug       ; Microsoft Windows 10.0.19045 X64
+2024-05-14 14:26:46.472223 ; SystemInfo     ; Debug       ; .NET Framework 4.8.9232.0
+2024-05-14 14:26:46.473183 ; SystemInfo     ; Debug       ; OpenTAP Engine 9.23.2+5a906a86 X64
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; Editor                   - 9.23.0+a3027bf1
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; Keysight Licensing       - 1.4.5+2bd4be43
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; OpenTAP                  - 9.23.2+5a906a86
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; OSIntegration            - 1.4.2+15f32a31
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; Python                   - 3.1.0+73e66d85
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; PythonExamples           - 3.1.0+73e66d85
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; WPF Controls             - 9.23.0+a3027bf1
+2024-05-14 14:26:46.475182 ; Installation   ; Debug       ; PathWave License Manager - 2.7.0+398d3a87
+2024-05-14 14:26:46.478382 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [6.91 ms]
+2024-05-14 14:26:46.523201 ; Session        ; Debug       ; Session log loaded as 'C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\SessionLogs\SessionLog 2024-05-14 14-26-43.txt'. [18.0 ms]
+2024-05-14 14:26:46.559191 ; CLI            ; Debug       ; Executing CLI action: python \ search-path
+2024-05-14 14:26:46.565224 ; CLI            ; Information ; Added' C:\Users\sangilkim\Documents\keysight\py_opentap_project' to the additional search path list.
+2024-05-14 14:26:46.666222 ; Settings       ; Debug       ; Saved PythonSettings to C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Settings\Python.xml [99.2 ms]
+2024-05-14 14:26:46.666222 ; CLI            ; Debug       ; CLI action returned exit code: 0 [107 ms]

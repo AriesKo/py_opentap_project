@@ -1,0 +1,30 @@
+﻿2024-05-14 14:26:39.500613 ; AssemblyData   ; Debug       ; Loaded OpenTap. [776 us]
+2024-05-14 14:26:39.525633 ; SystemInfo     ; Debug       ; Microsoft Windows 10.0.19045 X64
+2024-05-14 14:26:39.525633 ; SystemInfo     ; Debug       ; .NET Framework 4.8.9232.0
+2024-05-14 14:26:39.526603 ; SystemInfo     ; Debug       ; OpenTAP Engine 9.23.2+5a906a86 X64
+2024-05-14 14:26:39.531604 ; AssemblyData   ; Debug       ; Loaded OpenTap.Package. [5.57 ms]
+2024-05-14 14:26:39.550850 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [17.2 ms]
+2024-05-14 14:26:38.363061 ; Session        ; Debug       ; Session log loaded as 'C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\SessionLogs\tap 2024-05-14 14-26-37.txt'. [6.55 ms]
+2024-05-14 14:26:38.389179 ; Session        ; Debug       ; Running '"../bin/tap.exe" path register --verbose ' in 'C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin'.
+2024-05-14 14:26:38.449066 ; AssemblyFinder ; Debug       ; Found 8/40 assembly files. [21.4 ms]
+2024-05-14 14:26:38.505066 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2024-05-14 14:26:38.555182 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2024-05-14 14:26:39.396722 ; Searcher       ; Debug       ; Ordered 8 assemblies according to references. [868 ms]
+2024-05-14 14:26:39.482610 ; PluginManager  ; Debug       ; Found 5 plugin assemblies containing 192 plugin types. [958 ms]
+2024-05-14 14:26:39.483888 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.dll
+2024-05-14 14:26:39.483888 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.Package.dll
+2024-05-14 14:26:39.483888 ; PluginManager  ; Debug       ; Found version 0.0.0            of Keysight.OpenTap.Licensing.dll
+2024-05-14 14:26:39.483888 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.Plugins.BasicSteps.dll
+2024-05-14 14:26:39.483888 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2024-05-14 14:26:39.483888 ; PluginManager  ; Debug       ; Searched 8 Assemblies. [964 ms]
+2024-05-14 14:26:39.609966 ; Session        ; Debug       ; Session log loaded as 'C:\Users\sangilkim\Documents\keysight\py_opentap_project\bin\SessionLogs\SessionLog 2024-05-14 14-26-37.txt'. [18.7 ms]
+2024-05-14 14:26:39.626927 ; AssemblyData   ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [5.42 ms]
+2024-05-14 14:26:39.634936 ; AssemblyData   ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [5.66 ms]
+2024-05-14 14:26:39.738175 ; AssemblyData   ; Debug       ; Loaded mscorlib. [1.20 us]
+2024-05-14 14:26:39.784168 ; CLI            ; Debug       ; Executing CLI action: path \ register
+2024-05-14 14:26:39.787944 ; PackageAction  ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2024-05-14 14:26:39.787944 ; CLI            ; Debug       ; CLI action returned exit code: 0 [4.39 ms]
+2024-05-14 14:26:39.921596 ; Installation   ; Debug       ; Keysight Licensing       - 1.4.5+2bd4be43
+2024-05-14 14:26:39.921596 ; Installation   ; Debug       ; OpenTAP                  - 9.23.2+5a906a86
+2024-05-14 14:26:39.921596 ; Installation   ; Debug       ; OSIntegration            - 1.4.2+15f32a31
+2024-05-14 14:26:39.921596 ; Installation   ; Debug       ; PathWave License Manager - 2.7.0+398d3a87
