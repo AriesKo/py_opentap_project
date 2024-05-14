@@ -1,0 +1,40 @@
+2024-05-14 17:02:46.975293 ; Session        ; Debug       ; Session log loaded as 'D:\dev\python\py_opentap_project\bin\SessionLogs\dotnet.22272 2024-05-14 17-02-46.txt'. [2.26 ms]
+2024-05-14 17:02:46.979583 ; Session        ; Debug       ; Running '"C:\Program Files\dotnet\sdk\8.0.204\dotnet.dll" build' in 'D:\dev\python\py_opentap_project\py_opentap_pj.Api'.
+2024-05-14 17:02:46.991372 ; AssemblyFinder ; Debug       ; Found 5/26 assembly files. [2.38 ms]
+2024-05-14 17:02:47.000201 ; Searcher       ; Debug       ; Ordered 5 assemblies according to references. [7.99 ms]
+2024-05-14 17:02:47.008358 ; PluginManager  ; Debug       ; Found 3 plugin assemblies containing 175 plugin types. [16.3 ms]
+2024-05-14 17:02:47.008632 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.dll from C:\Users\Satreci\.nuget\packages\opentap\9.23.2\build\payload\OpenTap.dll
+2024-05-14 17:02:47.008641 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.Package.dll from C:\Users\Satreci\.nuget\packages\opentap\9.23.2\build\payload\OpenTap.Package.dll
+2024-05-14 17:02:47.008645 ; PluginManager  ; Debug       ; Found version 9.23.2+5a906a86  of OpenTap.Plugins.BasicSteps.dll from C:\Users\Satreci\.nuget\packages\opentap\9.23.2\build\payload\Packages\OpenTAP\OpenTap.Plugins.BasicSteps.dll
+2024-05-14 17:02:47.008652 ; PluginManager  ; Debug       ; Searched 5 Assemblies. [16.9 ms]
+2024-05-14 17:02:47.012280 ; AssemblyData   ; Debug       ; Loaded OpenTap. [212 us]
+2024-05-14 17:02:47.012321 ; AssemblyData   ; Debug       ; Loaded OpenTap.Package. [256 us]
+2024-05-14 17:02:47.012581 ; AssemblyData   ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [510 us]
+2024-05-14 17:02:47.032779 ; AssemblyData   ; Debug       ; Loaded System.Private.CoreLib. [300 ns]
+2024-05-14 17:02:47.108944 ; Resolver       ; Debug       ; Found match for OpenTap.Repository.Client, Version=4.17.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\Satreci\.nuget\packages\opentap\9.23.2\build\payload\Dependencies\OpenTap.Repository.Client.4.17.0.0\OpenTap.Repository.Client.dll
+2024-05-14 17:02:47.111747 ; Settings       ; Debug       ; No settings file exists for AuthenticationSettings. A new instance with default values has been created. [116 us]
+2024-05-14 17:02:47.112832 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [276 us]
+2024-05-14 17:02:47.166687 ; FilePackageRepository ; Debug       ; Rebuilding cache: .PackageCache.DC126603.23.xml [45.7 ms]
+2024-05-14 17:02:47.168807 ; Package Query  ; Debug       ; Read 23 packages from [FilePackageRepository: file:///C:/Users/Satreci/AppData/Local/OpenTap/PackageCache] [50.9 ms]
+2024-05-14 17:02:47.193752 ; SystemInfo     ; Debug       ; Microsoft Windows 10.0.19045X64
+2024-05-14 17:02:47.193781 ; SystemInfo     ; Debug       ; .NET 8.0.4
+2024-05-14 17:02:47.193860 ; SystemInfo     ; Debug       ; OpenTAP Engine 9.23.2+5a906a86 X64
+2024-05-14 17:02:47.194479 ; Installation   ; Debug       ; Editor                   - 9.23.0+a3027bf1
+2024-05-14 17:02:47.194481 ; Installation   ; Debug       ; Keysight Licensing       - 1.4.5+2bd4be43
+2024-05-14 17:02:47.194482 ; Installation   ; Debug       ; OpenTAP                  - 9.23.2+5a906a86
+2024-05-14 17:02:47.194483 ; Installation   ; Debug       ; OSIntegration            - 1.4.2+15f32a31
+2024-05-14 17:02:47.194483 ; Installation   ; Debug       ; Python                   - 3.1.0+73e66d85
+2024-05-14 17:02:47.194484 ; Installation   ; Debug       ; PythonExamples           - 3.1.0+73e66d85
+2024-05-14 17:02:47.194485 ; Installation   ; Debug       ; WPF Controls             - 9.23.0+a3027bf1
+2024-05-14 17:02:47.194485 ; Installation   ; Debug       ; PathWave License Manager - 2.7.0+398d3a87
+2024-05-14 17:02:48.866198 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","version":"","architecture":"x64","os":"Windows"} -> found 1402 packages. [1.74 s]
+2024-05-14 17:02:51.485139 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 14 packages. [2.61 s]
+2024-05-14 17:02:53.350073 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Licensing","version":"beta","architecture":"x64","os":"Windows"} -> found 10 packages. [1.86 s]
+2024-05-14 17:02:54.252741 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"OpenTAP","version":"rc","architecture":"x64","os":"Windows"} -> found 176 packages. [902 ms]
+2024-05-14 17:02:55.224193 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"PathWave Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 6 packages. [971 ms]
+2024-05-14 17:02:56.177565 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Floating Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 6 packages. [953 ms]
+2024-05-14 17:02:57.157556 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Fixed Licensing","version":"rc","architecture":"x64","os":"Windows"} -> found 6 packages. [979 ms]
+2024-05-14 17:02:58.080268 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"OpenTAP","version":"alpha","architecture":"x64","os":"Windows"} -> found 20 packages. [922 ms]
+2024-05-14 17:02:59.065523 ; GraphQL        ; Debug       ; {"type":"TapPackage","directory":"/Packages/","name":"Keysight Licensing","version":"alpha","architecture":"x64","os":"Windows"} -> found 25 packages. [985 ms]
+2024-05-14 17:02:59.069640 ; image          ; Debug       ; Resolved image: PythonExamples:3.1.0, Python:3.1.0, Editor:, OpenTAP:9.23.2+5a906a86, Keysight Licensing:^1.4.5+2bd4be43, OSIntegration:^1.4.2+15f32a31, WPF Controls:^9.23.0+a3027bf1, PathWave License Manager:^2.7.0+398d3a87 [10.2 s]
+2024-05-14 17:03:00.034768 ; OpenTAP        ; Information ; Target installation is already up to date.

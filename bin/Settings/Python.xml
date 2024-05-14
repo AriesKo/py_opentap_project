@@ -7,6 +7,10 @@
       <SearchPath>C:\Users\sangilkim\Documents\keysight\py_opentap_project</SearchPath>
       <Enabled>true</Enabled>
     </PluginSearchPath>
+    <PluginSearchPath>
+      <SearchPath>D:\dev\python\py_opentap_project</SearchPath>
+      <Enabled>true</Enabled>
+    </PluginSearchPath>
   </SearchPathList>
   <Debug>false</Debug>
   <DebugPort>5678</DebugPort>

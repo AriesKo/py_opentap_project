@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sangilkim\\Documents\\keysight\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj": {}
+    "D:\\dev\\python\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sangilkim\\Documents\\keysight\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj": {
+    "D:\\dev\\python\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sangilkim\\Documents\\keysight\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj",
+        "projectUniqueName": "D:\\dev\\python\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj",
         "projectName": "py_opentap_pj.Api",
-        "projectPath": "C:\\Users\\sangilkim\\Documents\\keysight\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj",
-        "packagesPath": "C:\\Users\\sangilkim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sangilkim\\Documents\\keysight\\py_opentap_project\\py_opentap_pj.Api\\obj\\",
+        "projectPath": "D:\\dev\\python\\py_opentap_project\\py_opentap_pj.Api\\py_opentap_pj.Api.csproj",
+        "packagesPath": "C:\\Users\\Satreci\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\python\\py_opentap_project\\py_opentap_pj.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sangilkim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Satreci\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

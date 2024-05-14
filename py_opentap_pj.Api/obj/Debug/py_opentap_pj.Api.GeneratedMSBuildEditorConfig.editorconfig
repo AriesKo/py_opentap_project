@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = Python.Test.CSharpApi
-build_property.ProjectDir = C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\
+build_property.ProjectDir = D:\dev\python\py_opentap_project\py_opentap_pj.Api\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -9,3 +9,15 @@ C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\D
 C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opent.566B09E2.Up2Date
 C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.dll
 C:\Users\sangilkim\Documents\keysight\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.pdb
+D:\dev\python\py_opentap_project\bin\py_opentap_pj.Api.deps.json
+D:\dev\python\py_opentap_project\bin\py_opentap_pj.Api.dll
+D:\dev\python\py_opentap_project\bin\py_opentap_pj.Api.pdb
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.csproj.AssemblyReference.cache
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.AssemblyInfoInputs.cache
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.AssemblyInfo.cs
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.csproj.CoreCompileInputs.cache
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.sourcelink.json
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opent.566B09E2.Up2Date
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.dll
+D:\dev\python\py_opentap_project\py_opentap_pj.Api\obj\Debug\py_opentap_pj.Api.pdb
